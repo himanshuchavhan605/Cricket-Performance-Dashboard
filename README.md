@@ -103,4 +103,4 @@ Cricket team selection is often subjective and based on opinion. This project ta
 ## 👤 Author
 
 **Himanshu Chavhan** — Data Analyst
-www.linkedin.com/in/himanshu-chavhan-b7a80123b
+[www.linkedin.com/in/himanshu-chavhan-b7a80123b](https://www.linkedin.com/in/himanshu-chavhan605)
